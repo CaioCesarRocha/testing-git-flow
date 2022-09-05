@@ -1,4 +1,4 @@
-# testing-git-flow
+# Exemplificando uma criação de uma app utilizando o fluxo do git flow
 
 
 # criado login google
